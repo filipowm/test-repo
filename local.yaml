@@ -12,3 +12,7 @@ steps:
       echo 'Found local recipe'
     requires:
       - step-a
+  - id: step-c
+    name: Ask for something
+    action: prompt
+    message: Enter some data
