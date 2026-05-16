@@ -1,0 +1,6 @@
+name: Team stuff
+label: AI
+recipes:
+  - name: "My local beauty"
+    path: local.yaml
+    description: "Only for testing"
