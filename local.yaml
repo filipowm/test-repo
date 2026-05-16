@@ -1,10 +1,10 @@
 name: "Local public"
 author: "Test"
 steps:
-  - id: step-a
-    name: "Git"
-    action: install
-    packages: git
+#  - id: step-a
+ #   name: "Git"
+  #  action: install
+   # packages: git
   - id: step-b
     name: "Local"
     action: run
